@@ -13,8 +13,8 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Penetration Testing and Network Security**
-- 🌱 Learning **Advanced Threat Detection and Cloud Security**
+- 🔭 I’m currently working on **My Self**
+- 🌱 Learning **Cybersecurity**
 - 💬 Ask me about **Vulnerability Assessment and Secure Coding**
 - 📫 How to reach me: **https://www.linkedin.com/in/khalednasserfathala**
 - ⚡ Fun fact: **I am a Gamer and CTF Player**
